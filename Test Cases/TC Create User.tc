@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Create User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7dcfa44a-e02f-4f24-a5ac-dbe2e7ce5cdb</testCaseGuid>
+</TestCaseEntity>
